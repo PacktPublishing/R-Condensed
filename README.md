@@ -1,2 +1,1 @@
-# R-Condensed
-R Condensed, published by Packt
+# The code for this repository is under development :construction_worker:
